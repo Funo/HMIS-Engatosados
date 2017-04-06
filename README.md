@@ -22,3 +22,4 @@
 
 [Enlace a GitHub - Sincronizar un Fork](https://help.github.com/articles/syncing-a-fork/ "Sincronizar un Fork en GitHub")
 
+[Enlace a GitHub - Pull Request](https://help.github.com/articles/about-pull-requests/ "Pull Request en GitHub")
