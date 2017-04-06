@@ -10,3 +10,12 @@
 
 [Enlace a Pro Git Book]( https://git-scm.com/book/es/ "Pro Git book")
 
+[Enlace a Bazaar]( http://bazaar.canonical.com/en/ "Bazaar")
+
+[Enlace a Mercurial]( https://www.mercurial-scm.org/  "Mercurial")
+
+[Enlace a TFS ](https://www.visualstudio.com/es/tfs/?rr=https%3A%2F%2Fwww.google.es%2F  "TFS")
+
+[Enlace a SVN]( https://subversion.apache.org/ "SVN")
+
+
